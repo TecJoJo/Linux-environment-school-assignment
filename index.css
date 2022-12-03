@@ -6,6 +6,26 @@ body{
     height: 100vh;
 }
 
+.home-container{
+    width: 40vw;
+    height:40vw;
+    
+  
+
+    border: solid 2px pink;
+    border-radius: 10%;
+    
+
+    position: absolute;
+    top:50%;
+    transform: translateY(-50%);}
+.home-container h1{   
+    
+    text-align: center;
+    
+}
+
+
 .student-img{
     display:block;
     width:80%;
@@ -15,30 +35,5 @@ body{
     object-position:center;
     margin: auto;
 }
-.student-img::after{
-    content:"hello world" ;
-    display: block;
-    height:10px;
-    width:10px;
-}
 
-.home-container{
-    width: 40vw;
-    height:40vw;
-    margin:calc(50vh - 20vw)  auto auto auto;
-  
-
-    border: solid 2px pink;
-    border-radius: 10%;
-    
-
-    /*position: absolute;
-    top:50%;
-    transform: translateY(-50%);*/
-}
-.home-container h1{   
-    
-    text-align: center;
-    
-}
 
