@@ -3,16 +3,17 @@
     <head>
 	<title>a computer sience student's life</title>
 	<meta charset="utf-8" />
-	<meta content="width=device-width, initial-scale=1" name="viewport" />
 	<link rel="stylesheet" href="index.css"/>
 	<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto:wght@100&display=swap" rel="stylesheet">
     </head>
     <body>
 	<section class="home-container">
-	    <h1>life of a computer science student</h1>
-	    <img class="student-img" src="https://img.freepik.com/premium-vector/cute-cat-working-laptop-writing-paper-cartoon-icon-illustration_138676-2267.jpg?w=826" alt="junior developer"/>
+	    <h1>CS-student may easily study at home, it may looks like this</h1>
+	    <img class="student-img" src="https://miro.medium.com/max/720/0*rK_M1PmbiS6GHWMw.webp" alt="junior developer"/>
 	    <div class="link-control">
-		<a href="page2.html">Next</a>
+		<a href="homepage.html">Previous</a>
+		<a href="page3.html">Next</a>
+
 		</div>
 	</section>
 	    
